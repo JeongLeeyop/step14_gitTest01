@@ -5,8 +5,8 @@ public class EmpService {
 		System.out.println("»Ò¡§¿Ã √ﬂ∞°..");
 	}
 	
-	public void cc() {
-		System.out.println("cccccccc");
+	public void dd() {
+		System.out.println("ddddddd");
 	}
 
 }
