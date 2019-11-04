@@ -4,5 +4,9 @@ public class EmpService {
 	public void aa() {
 		System.out.println("»Ò¡§¿Ã √ﬂ∞°..");
 	}
+	
+	public void cc() {
+		System.out.println("cccccccc");
+	}
 
 }
